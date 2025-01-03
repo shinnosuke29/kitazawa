@@ -1,0 +1,19 @@
+[4.616s] Invoking command in '/home/kitazawa/ros2_ws/build/temperature_package': PYTHONPATH=/home/kitazawa/ros2_ws/build/temperature_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kitazawa/ros2_ws/install/temperature_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kitazawa/ros2_ws/build/temperature_package/build --no-deps symlink_data --force
+[5.665s] running develop
+[6.280s] running egg_info
+[6.281s] writing temperature_package.egg-info/PKG-INFO
+[6.281s] writing dependency_links to temperature_package.egg-info/dependency_links.txt
+[6.285s] writing entry points to temperature_package.egg-info/entry_points.txt
+[6.286s] writing requirements to temperature_package.egg-info/requires.txt
+[6.286s] writing top-level names to temperature_package.egg-info/top_level.txt
+[6.398s] reading manifest file 'temperature_package.egg-info/SOURCES.txt'
+[6.402s] writing manifest file 'temperature_package.egg-info/SOURCES.txt'
+[6.518s] running build_ext
+[6.520s] Creating /home/kitazawa/ros2_ws/install/temperature_package/lib/python3.8/site-packages/site.py
+[6.628s] Creating /home/kitazawa/ros2_ws/install/temperature_package/lib/python3.8/site-packages/temperature-package.egg-link (link to .)
+[6.629s] 
+[6.630s] Installed /home/kitazawa/ros2_ws/build/temperature_package
+[6.630s] running symlink_data
+[6.631s] symbolically linking /home/kitazawa/ros2_ws/build/temperature_package/resource/temperature_package -> /home/kitazawa/ros2_ws/install/temperature_package/share/ament_index/resource_index/packages
+[6.632s] symbolically linking /home/kitazawa/ros2_ws/build/temperature_package/package.xml -> /home/kitazawa/ros2_ws/install/temperature_package/share/temperature_package
+[6.709s] Invoked command in '/home/kitazawa/ros2_ws/build/temperature_package' returned '0': PYTHONPATH=/home/kitazawa/ros2_ws/build/temperature_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kitazawa/ros2_ws/install/temperature_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kitazawa/ros2_ws/build/temperature_package/build --no-deps symlink_data --force

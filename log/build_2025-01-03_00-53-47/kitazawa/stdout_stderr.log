@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing kitazawa.egg-info/PKG-INFO
+writing dependency_links to kitazawa.egg-info/dependency_links.txt
+writing entry points to kitazawa.egg-info/entry_points.txt
+writing requirements to kitazawa.egg-info/requires.txt
+writing top-level names to kitazawa.egg-info/top_level.txt
+reading manifest file 'kitazawa.egg-info/SOURCES.txt'
+writing manifest file 'kitazawa.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kitazawa/ros2_ws/install/kitazawa/lib/python3.8/site-packages/site.py
+Creating /home/kitazawa/ros2_ws/install/kitazawa/lib/python3.8/site-packages/kitazawa.egg-link (link to .)
+
+Installed /home/kitazawa/ros2_ws/build/kitazawa
+running symlink_data
+symbolically linking /home/kitazawa/ros2_ws/build/kitazawa/resource/kitazawa -> /home/kitazawa/ros2_ws/install/kitazawa/share/ament_index/resource_index/packages
+symbolically linking /home/kitazawa/ros2_ws/build/kitazawa/package.xml -> /home/kitazawa/ros2_ws/install/kitazawa/share/kitazawa

@@ -1,0 +1,9 @@
+source;share/kitazawa/hook/pythonpath.ps1
+source;share/kitazawa/hook/pythonpath.dsv
+source;share/kitazawa/hook/pythonpath.sh
+source;share/kitazawa/hook/ament_prefix_path.ps1
+source;share/kitazawa/hook/ament_prefix_path.dsv
+source;share/kitazawa/hook/ament_prefix_path.sh
+source;../../build/kitazawa/share/kitazawa/hook/pythonpath_develop.ps1
+source;../../build/kitazawa/share/kitazawa/hook/pythonpath_develop.dsv
+source;../../build/kitazawa/share/kitazawa/hook/pythonpath_develop.sh

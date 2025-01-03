@@ -1,0 +1,6 @@
+Invoking command in '/home/kitazawa/ros2_ws/build/my_cpp_demo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/kitazawa/ros2_ws/src/my_cpp_demo -DCMAKE_INSTALL_PREFIX=/home/kitazawa/ros2_ws/install/my_cpp_demo
+Invoked command in '/home/kitazawa/ros2_ws/build/my_cpp_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/kitazawa/ros2_ws/src/my_cpp_demo -DCMAKE_INSTALL_PREFIX=/home/kitazawa/ros2_ws/install/my_cpp_demo
+Invoking command in '/home/kitazawa/ros2_ws/build/my_cpp_demo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/kitazawa/ros2_ws/build/my_cpp_demo -- -j8 -l8
+Invoked command in '/home/kitazawa/ros2_ws/build/my_cpp_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/kitazawa/ros2_ws/build/my_cpp_demo -- -j8 -l8
+Invoking command in '/home/kitazawa/ros2_ws/build/my_cpp_demo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/kitazawa/ros2_ws/build/my_cpp_demo
+Invoked command in '/home/kitazawa/ros2_ws/build/my_cpp_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/kitazawa/ros2_ws/build/my_cpp_demo

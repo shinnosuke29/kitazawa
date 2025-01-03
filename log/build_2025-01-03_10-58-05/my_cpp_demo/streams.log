@@ -1,0 +1,20 @@
+[1.029s] Invoking command in '/home/kitazawa/ros2_ws/build/my_cpp_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/temperature_package:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake --build /home/kitazawa/ros2_ws/build/my_cpp_demo -- -j8 -l8
+[1.919s] Invoked command in '/home/kitazawa/ros2_ws/build/my_cpp_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/temperature_package:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake --build /home/kitazawa/ros2_ws/build/my_cpp_demo -- -j8 -l8
+[1.986s] Invoking command in '/home/kitazawa/ros2_ws/build/my_cpp_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/temperature_package:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake --install /home/kitazawa/ros2_ws/build/my_cpp_demo
+[2.775s] -- Install configuration: ""
+[2.776s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/ament_index/resource_index/package_run_dependencies/my_cpp_demo
+[2.778s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/ament_index/resource_index/parent_prefix_path/my_cpp_demo
+[2.779s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/environment/ament_prefix_path.sh
+[2.797s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/environment/ament_prefix_path.dsv
+[2.798s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/environment/path.sh
+[2.800s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/environment/path.dsv
+[2.800s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/local_setup.bash
+[2.800s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/local_setup.sh
+[2.801s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/local_setup.zsh
+[2.801s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/local_setup.dsv
+[2.801s] -- Installing: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/package.dsv
+[2.802s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/ament_index/resource_index/packages/my_cpp_demo
+[2.802s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/cmake/my_cpp_demoConfig.cmake
+[2.802s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/cmake/my_cpp_demoConfig-version.cmake
+[2.803s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/package.xml
+[2.811s] Invoked command in '/home/kitazawa/ros2_ws/build/my_cpp_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/temperature_package:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake --install /home/kitazawa/ros2_ws/build/my_cpp_demo

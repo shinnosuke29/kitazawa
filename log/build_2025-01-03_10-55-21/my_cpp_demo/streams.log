@@ -1,0 +1,20 @@
+[1.103s] Invoking command in '/home/kitazawa/ros2_ws/build/my_cpp_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake --build /home/kitazawa/ros2_ws/build/my_cpp_demo -- -j8 -l8
+[2.834s] Invoked command in '/home/kitazawa/ros2_ws/build/my_cpp_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake --build /home/kitazawa/ros2_ws/build/my_cpp_demo -- -j8 -l8
+[2.937s] Invoking command in '/home/kitazawa/ros2_ws/build/my_cpp_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake --install /home/kitazawa/ros2_ws/build/my_cpp_demo
+[3.047s] -- Install configuration: ""
+[3.050s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/ament_index/resource_index/package_run_dependencies/my_cpp_demo
+[3.051s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/ament_index/resource_index/parent_prefix_path/my_cpp_demo
+[3.051s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/environment/ament_prefix_path.sh
+[3.052s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/environment/ament_prefix_path.dsv
+[3.052s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/environment/path.sh
+[3.053s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/environment/path.dsv
+[3.053s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/local_setup.bash
+[3.053s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/local_setup.sh
+[3.054s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/local_setup.zsh
+[3.054s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/local_setup.dsv
+[3.054s] -- Installing: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/package.dsv
+[3.059s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/ament_index/resource_index/packages/my_cpp_demo
+[3.060s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/cmake/my_cpp_demoConfig.cmake
+[3.060s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/cmake/my_cpp_demoConfig-version.cmake
+[3.060s] -- Up-to-date: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/package.xml
+[3.072s] Invoked command in '/home/kitazawa/ros2_ws/build/my_cpp_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake --install /home/kitazawa/ros2_ws/build/my_cpp_demo

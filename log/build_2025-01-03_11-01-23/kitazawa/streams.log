@@ -1,0 +1,21 @@
+[4.227s] Invoking command in '/home/kitazawa/ros2_ws/src/kitazawa': PYTHONPATH=/home/kitazawa/ros2_ws/build/kitazawa/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kitazawa/ros2_ws/install/kitazawa/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/kitazawa build --build-base /home/kitazawa/ros2_ws/build/kitazawa/build install --record /home/kitazawa/ros2_ws/build/kitazawa/install.log --install-scripts $base/lib/kitazawa --single-version-externally-managed
+[5.128s] running egg_info
+[5.166s] writing ../../build/kitazawa/kitazawa.egg-info/PKG-INFO
+[5.166s] writing dependency_links to ../../build/kitazawa/kitazawa.egg-info/dependency_links.txt
+[5.167s] writing entry points to ../../build/kitazawa/kitazawa.egg-info/entry_points.txt
+[5.167s] writing requirements to ../../build/kitazawa/kitazawa.egg-info/requires.txt
+[5.167s] writing top-level names to ../../build/kitazawa/kitazawa.egg-info/top_level.txt
+[5.268s] reading manifest file '../../build/kitazawa/kitazawa.egg-info/SOURCES.txt'
+[5.269s] writing manifest file '../../build/kitazawa/kitazawa.egg-info/SOURCES.txt'
+[5.270s] running build
+[5.270s] running build_py
+[5.270s] running install
+[5.271s] running install_lib
+[5.271s] running install_egg_info
+[5.271s] removing '/home/kitazawa/ros2_ws/install/kitazawa/lib/python3.8/site-packages/kitazawa-0.0.0-py3.8.egg-info' (and everything under it)
+[5.274s] Copying ../../build/kitazawa/kitazawa.egg-info to /home/kitazawa/ros2_ws/install/kitazawa/lib/python3.8/site-packages/kitazawa-0.0.0-py3.8.egg-info
+[5.293s] running install_scripts
+[5.336s] Installing temperature_publisher script to /home/kitazawa/ros2_ws/install/kitazawa/lib/kitazawa
+[5.337s] Installing temperature_simulator script to /home/kitazawa/ros2_ws/install/kitazawa/lib/kitazawa
+[5.339s] writing list of installed files to '/home/kitazawa/ros2_ws/build/kitazawa/install.log'
+[5.397s] Invoked command in '/home/kitazawa/ros2_ws/src/kitazawa' returned '0': PYTHONPATH=/home/kitazawa/ros2_ws/build/kitazawa/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kitazawa/ros2_ws/install/kitazawa/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/kitazawa build --build-base /home/kitazawa/ros2_ws/build/kitazawa/build install --record /home/kitazawa/ros2_ws/build/kitazawa/install.log --install-scripts $base/lib/kitazawa --single-version-externally-managed

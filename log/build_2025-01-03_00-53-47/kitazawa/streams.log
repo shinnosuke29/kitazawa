@@ -1,0 +1,19 @@
+[2.192s] Invoking command in '/home/kitazawa/ros2_ws/build/kitazawa': PYTHONPATH=/home/kitazawa/ros2_ws/build/kitazawa/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kitazawa/ros2_ws/install/kitazawa/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kitazawa/ros2_ws/build/kitazawa/build --no-deps symlink_data --force
+[2.628s] running develop
+[2.876s] running egg_info
+[2.876s] writing kitazawa.egg-info/PKG-INFO
+[2.877s] writing dependency_links to kitazawa.egg-info/dependency_links.txt
+[2.877s] writing entry points to kitazawa.egg-info/entry_points.txt
+[2.878s] writing requirements to kitazawa.egg-info/requires.txt
+[2.878s] writing top-level names to kitazawa.egg-info/top_level.txt
+[2.933s] reading manifest file 'kitazawa.egg-info/SOURCES.txt'
+[2.940s] writing manifest file 'kitazawa.egg-info/SOURCES.txt'
+[2.990s] running build_ext
+[2.999s] Creating /home/kitazawa/ros2_ws/install/kitazawa/lib/python3.8/site-packages/site.py
+[3.010s] Creating /home/kitazawa/ros2_ws/install/kitazawa/lib/python3.8/site-packages/kitazawa.egg-link (link to .)
+[3.012s] 
+[3.012s] Installed /home/kitazawa/ros2_ws/build/kitazawa
+[3.012s] running symlink_data
+[3.013s] symbolically linking /home/kitazawa/ros2_ws/build/kitazawa/resource/kitazawa -> /home/kitazawa/ros2_ws/install/kitazawa/share/ament_index/resource_index/packages
+[3.014s] symbolically linking /home/kitazawa/ros2_ws/build/kitazawa/package.xml -> /home/kitazawa/ros2_ws/install/kitazawa/share/kitazawa
+[3.040s] Invoked command in '/home/kitazawa/ros2_ws/build/kitazawa' returned '0': PYTHONPATH=/home/kitazawa/ros2_ws/build/kitazawa/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kitazawa/ros2_ws/install/kitazawa/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kitazawa/ros2_ws/build/kitazawa/build --no-deps symlink_data --force

@@ -1,0 +1,33 @@
+[1.018s] Invoking command in '/home/kitazawa/ros2_ws/build/my_cpp_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/temperature_package:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake /home/kitazawa/ros2_ws/src/my_cpp_demo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kitazawa/ros2_ws/install/my_cpp_demo
+[1.878s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.880s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.011s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.279s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[2.588s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.609s] -- Added test 'lint_cmake' to check CMake code style
+[2.620s] -- Added test 'xmllint' to check XML markup files
+[2.667s] -- Configuring done
+[2.899s] -- Generating done
+[3.010s] -- Build files have been written to: /home/kitazawa/ros2_ws/build/my_cpp_demo
+[3.020s] Invoked command in '/home/kitazawa/ros2_ws/build/my_cpp_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/temperature_package:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake /home/kitazawa/ros2_ws/src/my_cpp_demo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kitazawa/ros2_ws/install/my_cpp_demo
+[3.034s] Invoking command in '/home/kitazawa/ros2_ws/build/my_cpp_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/temperature_package:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake --build /home/kitazawa/ros2_ws/build/my_cpp_demo -- -j8 -l8
+[3.393s] Invoked command in '/home/kitazawa/ros2_ws/build/my_cpp_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/temperature_package:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake --build /home/kitazawa/ros2_ws/build/my_cpp_demo -- -j8 -l8
+[3.484s] Invoking command in '/home/kitazawa/ros2_ws/build/my_cpp_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/temperature_package:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake --install /home/kitazawa/ros2_ws/build/my_cpp_demo
+[3.560s] -- Install configuration: ""
+[3.560s] -- Execute custom install script
+[3.560s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/ament_index/resource_index/package_run_dependencies/my_cpp_demo
+[3.656s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/ament_index/resource_index/parent_prefix_path/my_cpp_demo
+[3.767s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/environment/ament_prefix_path.sh
+[3.850s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/environment/ament_prefix_path.dsv
+[3.969s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/environment/path.sh
+[4.055s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/environment/path.dsv
+[4.144s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/local_setup.bash
+[4.221s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/local_setup.sh
+[4.324s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/local_setup.zsh
+[4.427s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/local_setup.dsv
+[4.507s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/package.dsv
+[4.608s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/ament_index/resource_index/packages/my_cpp_demo
+[4.709s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/cmake/my_cpp_demoConfig.cmake
+[4.838s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/cmake/my_cpp_demoConfig-version.cmake
+[4.951s] -- Symlinking: /home/kitazawa/ros2_ws/install/my_cpp_demo/share/my_cpp_demo/package.xml
+[5.053s] Invoked command in '/home/kitazawa/ros2_ws/build/my_cpp_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitazawa/ros2_ws/install/temperature_package:/home/kitazawa/ros2_ws/install/my_package:/home/kitazawa/ros2_ws/install/kitazawa:/opt/ros/foxy /usr/bin/cmake --install /home/kitazawa/ros2_ws/build/my_cpp_demo

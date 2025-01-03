@@ -1,0 +1,4 @@
+[console_scripts]
+temperature_publisher = kitazawa.temperature_publisher:main
+temperature_simulator = kitazawa.temperature_simulator:main
+
