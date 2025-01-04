@@ -1,13 +1,34 @@
-# KITAZAWA
+# KITAZAWAプロジェクト
 
-This is a ROS 2 package for the KITAZAWA project. The project involves temperature simulation and publishing data for robotic applications.
+これは、KITAZAWAプロジェクトのROS 2パッケージです。このプロジェクトは、ロボットアプリケーションのための温度シミュレーションとデータ公開を行います。
 
-## Features
-- Temperature Simulator Node
-- Data Publishing for Monitoring
+## 機能
 
-## How to Run
-1. Build the workspace: `colcon build`
-2. Source the setup file: `source install/setup.bash`
-3. Run the node: `ros2 run kitazawa temperature_simulator`
+- **温度シミュレータノード**  
+  温度データをシミュレートし、ロボットシステムで使用できる形式で出力します。
 
+- **データ公開**  
+  シミュレーションされた温度データをROS 2ネットワーク上で公開し、モニタリングや分析ができるようにします。
+
+## 実行方法
+
+1. ワークスペースをビルドします：
+
+   ```bash
+   colcon build
+2. セットアップファイルをソースします：
+
+source install/setup.bash
+
+3. ノードを実行します：
+
+ros2 run kitazawa temperature_simulator
+
+## 開発環境
+・ROS 2 (Foxy以降)
+・Ubuntu 20.04またはそれ以降
+・Python 3.x
+・colcon（ビルドツール）
+
+##　その他
+このプロジェクトは、ロボットの温度モニタリングやシミュレーションシステムの一部として使用することができます。温度シミュレータノードは、システムのセンサーデータを模倣し、リアルタイムで監視するためのデータを提供します。
