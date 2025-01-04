@@ -24,7 +24,7 @@
 3. ノードを実行します：
 
    ```bash
-   ros2 run kitazawatemperature_simulator
+   ros2 run kitazawa temperature_simulator
 
 ## 開発環境
 ・ROS 2 (Foxy以降)
