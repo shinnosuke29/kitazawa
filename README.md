@@ -18,11 +18,13 @@
    colcon build
 2. セットアップファイルをソースします：
 
-source install/setup.bash
+   ```bash
+   source install/setup.bash
 
 3. ノードを実行します：
 
-ros2 run kitazawa temperature_simulator
+   ```bash
+   ros2 run kitazawatemperature_simulator
 
 ## 開発環境
 ・ROS 2 (Foxy以降)
@@ -30,5 +32,5 @@ ros2 run kitazawa temperature_simulator
 ・Python 3.x
 ・colcon（ビルドツール）
 
-##　その他
+## その他
 このプロジェクトは、ロボットの温度モニタリングやシミュレーションシステムの一部として使用することができます。温度シミュレータノードは、システムのセンサーデータを模倣し、リアルタイムで監視するためのデータを提供します。
